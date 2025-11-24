@@ -6,3 +6,8 @@ O **Super Flux ERP** é uma ferramenta que automatiza a criação de soluções 
 
 - **Linguagem principal:** .NET (C#)  
 - **Por que da escolha:** ERP corporativo exige forte tipagem, integração com bancos e sistemas legados, relatórios complexos e escalabilidade.
+
+## Arquitetura
+
+- **Arquitetura recomendada:** Layered Architecture / DDD  
+- **Por que da escolha:** ERP corporativo demanda modularidade, separação de domínios e integração com diversos sistemas internos.
